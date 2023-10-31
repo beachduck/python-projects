@@ -1,4 +1,4 @@
-# Online Python compiler (interpreter) to run Python online.
+# This was created in ChatGPT, for the record.
 from mpmath import mp
 import time
 
